@@ -1,0 +1,13 @@
+D:\Projects\Morris Investing\CFDynamicIP\bin\Release\CFDynamicIP.exe.config
+D:\Projects\Morris Investing\CFDynamicIP\bin\Release\CFDynamicIP.exe
+D:\Projects\Morris Investing\CFDynamicIP\bin\Release\CFDynamicIP.pdb
+D:\Projects\Morris Investing\CFDynamicIP\obj\Release\CFDynamicIP.csprojAssemblyReference.cache
+D:\Projects\Morris Investing\CFDynamicIP\obj\Release\CFDynamicIP.Properties.Resources.resources
+D:\Projects\Morris Investing\CFDynamicIP\obj\Release\CFDynamicIP.csproj.GenerateResource.cache
+D:\Projects\Morris Investing\CFDynamicIP\obj\Release\CFDynamicIP.csproj.CoreCompileInputs.cache
+D:\Projects\Morris Investing\CFDynamicIP\obj\Release\CFDynamicIP.exe
+D:\Projects\Morris Investing\CFDynamicIP\obj\Release\CFDynamicIP.pdb
+D:\Projects\Morris Investing\CFDynamicIP\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Morris Investing\CFDynamicIP\bin\Release\Newtonsoft.Json.pdb
+D:\Projects\Morris Investing\CFDynamicIP\bin\Release\Newtonsoft.Json.xml
+D:\Projects\Morris Investing\CFDynamicIP\obj\Release\CFDynamicIP.csproj.CopyComplete
